@@ -1,0 +1,55 @@
+C:\Users\nicol\Desktop\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe.config
+C:\Users\nicol\Desktop\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe
+C:\Users\nicol\Desktop\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.pdb
+C:\Users\nicol\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csprojAssemblyReference.cache
+C:\Users\nicol\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.FormInicio.resources
+C:\Users\nicol\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.FormPincipal.resources
+C:\Users\nicol\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Properties.Resources.resources
+C:\Users\nicol\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csproj.GenerateResource.cache
+C:\Users\nicol\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.exe
+C:\Users\nicol\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.pdb
+C:\Users\nicol\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.FormDividir.resources
+C:\Users\nicol\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.FormFacturación.resources
+C:\Users\nicol\Desktop\Nueva carpeta\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe.config
+C:\Users\nicol\Desktop\Nueva carpeta\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe
+C:\Users\nicol\Desktop\Nueva carpeta\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.pdb
+C:\Users\nicol\Desktop\Nueva carpeta\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csprojAssemblyReference.cache
+C:\Users\nicol\Desktop\Nueva carpeta\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.FormDividir.resources
+C:\Users\nicol\Desktop\Nueva carpeta\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.FormFacturación.resources
+C:\Users\nicol\Desktop\Nueva carpeta\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.FormInicio.resources
+C:\Users\nicol\Desktop\Nueva carpeta\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.FormPincipal.resources
+C:\Users\nicol\Desktop\Nueva carpeta\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Properties.Resources.resources
+C:\Users\nicol\Desktop\Nueva carpeta\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csproj.GenerateResource.cache
+C:\Users\nicol\Desktop\Nueva carpeta\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Nueva carpeta\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.exe
+C:\Users\nicol\Desktop\Nueva carpeta\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.pdb
+C:\Users\nicol\Desktop\ultimo\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe.config
+C:\Users\nicol\Desktop\ultimo\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe
+C:\Users\nicol\Desktop\ultimo\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.pdb
+C:\Users\nicol\Desktop\ultimo\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csprojAssemblyReference.cache
+C:\Users\nicol\Desktop\ultimo\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.FormDividir.resources
+C:\Users\nicol\Desktop\ultimo\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.FormFacturación.resources
+C:\Users\nicol\Desktop\ultimo\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.FormInicio.resources
+C:\Users\nicol\Desktop\ultimo\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.FormPincipal.resources
+C:\Users\nicol\Desktop\ultimo\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Properties.Resources.resources
+C:\Users\nicol\Desktop\ultimo\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csproj.GenerateResource.cache
+C:\Users\nicol\Desktop\ultimo\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\ultimo\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.exe
+C:\Users\nicol\Desktop\ultimo\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.pdb
+C:\Users\nicol\Desktop\ultimo\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.FormAgregarConsumo.resources
+C:\Users\nicol\Desktop\ultimo - copia (2)\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe.config
+C:\Users\nicol\Desktop\ultimo - copia (2)\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe
+C:\Users\nicol\Desktop\ultimo - copia (2)\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.pdb
+C:\Users\nicol\Desktop\ultimo - copia (2)\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csprojAssemblyReference.cache
+C:\Users\nicol\Desktop\ultimo - copia (2)\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.FormAgregarConsumo.resources
+C:\Users\nicol\Desktop\ultimo - copia (2)\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.FormDividir.resources
+C:\Users\nicol\Desktop\ultimo - copia (2)\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.FormFacturación.resources
+C:\Users\nicol\Desktop\ultimo - copia (2)\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.FormInicio.resources
+C:\Users\nicol\Desktop\ultimo - copia (2)\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.FormPincipal.resources
+C:\Users\nicol\Desktop\ultimo - copia (2)\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Properties.Resources.resources
+C:\Users\nicol\Desktop\ultimo - copia (2)\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csproj.GenerateResource.cache
+C:\Users\nicol\Desktop\ultimo - copia (2)\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\ultimo - copia (2)\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.exe
+C:\Users\nicol\Desktop\ultimo - copia (2)\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.pdb
+C:\Users\nicol\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.FormAgregarConsumo.resources
